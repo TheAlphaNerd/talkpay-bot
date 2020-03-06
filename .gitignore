@@ -2,3 +2,4 @@
 node_modules/
 local.json
 deploy.sh
+.nyc_output/
